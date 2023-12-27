@@ -1,0 +1,22 @@
+<h1 align="center">
+    <a href="https://www.idocta.be"><img src="https://raw.githubusercontent.com/idocta/brand-guide/master/logo/standard/light.svg" width="175px" alt="iDocta"></a>
+</h1>
+ 
+<h3 align="center">Brand guidelines of iDocta.</h3>
+
+---
+
+[Back to parent directory](https://github.com/iDocta/brand-guide)
+
+## Standard logos
+
+| Preview                                                                                                                | Size   | Dark? | File                                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------- | ------ | ----- | ------------------------------------------------------------------------------------------------ |
+| <img src='https://github.com/iDocta/brand-guide/blob/master/logo/standard/dark-100.png?raw=true' width='64' alt=''/>   | 100px  | ✅     | [dark-100.png](https://github.com/iDocta/brand-guide/blob/master/logo/standard/dark-100.png)     |
+| <img src='https://github.com/iDocta/brand-guide/blob/master/logo/standard/dark-512.png?raw=true' width='64' alt=''/>   | 512px  | ✅     | [dark-512.png](https://github.com/iDocta/brand-guide/blob/master/logo/standard/dark-512.png)     |
+| <img src='https://github.com/iDocta/brand-guide/blob/master/logo/standard/dark-1024.png?raw=true' width='64' alt=''/>  | 1024px | ✅     | [dark-1024.png](https://github.com/iDocta/brand-guide/blob/master/logo/standard/dark-1024.png)   |
+| <img src='https://github.com/iDocta/brand-guide/blob/master/logo/standard/dark-2048.png?raw=true' width='64' alt=''/>  | 2048px | ✅     | [dark-2048.png](https://github.com/iDocta/brand-guide/blob/master/logo/standard/dark-2048.png)   |
+| <img src='https://github.com/iDocta/brand-guide/blob/master/logo/standard/light-100.png?raw=true' width='64' alt=''/>  | 100px  | ❌     | [light-100.png](https://github.com/iDocta/brand-guide/blob/master/logo/standard/light-100.png)   |
+| <img src='https://github.com/iDocta/brand-guide/blob/master/logo/standard/light-512.png?raw=true' width='64' alt=''/>  | 512px  | ❌     | [light-512.png](https://github.com/iDocta/brand-guide/blob/master/logo/standard/light-512.png)   |
+| <img src='https://github.com/iDocta/brand-guide/blob/master/logo/standard/light-1024.png?raw=true' width='64' alt=''/> | 1024px | ❌     | [light-1024.png](https://github.com/iDocta/brand-guide/blob/master/logo/standard/light-1024.png) |
+| <img src='https://github.com/iDocta/brand-guide/blob/master/logo/standard/light-2048.png?raw=true' width='64' alt=''/> | 2048px | ❌     | [light-2048.png](https://github.com/iDocta/brand-guide/blob/master/logo/standard/light-2048.png) |
