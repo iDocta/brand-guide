@@ -13,10 +13,12 @@
 ### Do
 
 - Always stylize iDocta with lowercase 'i' and capital 'D' when using in print, web or other text form
+- Use our logo in monochrome (aka 1 single color)
 
 ### Don't
 
 - Use the stylized form of iDocta with lowercase 'i' and capital 'D' in URI or mail adresses, f.e. info@idocta.be
+- Use the old style logo with different colored letters (red lowercase 'i')
 - Make changes to the logos provided here
 - Make exports of our .svg source file, use exports provided in this repository
 
