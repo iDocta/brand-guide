@@ -1,3 +1,9 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/iDocta/brand-guide/blob/main/dos_and_donts/README.md)
+[![nl](https://img.shields.io/badge/lang-nl-green.svg)](https://github.com/iDocta/brand-guide/blob/main/dos_and_donts/README.nl.md)
+
+---
+
+
 <h1 align="center">
     <a href="https://www.idocta.be"><img src="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/source/light.svg" width="175px" alt="iDocta"></a>
 </h1>
@@ -10,12 +16,12 @@
 
 ## Brand guidelines
 
-### Do
+### :white_check_mark: Do
 
 - Always stylize iDocta with lowercase 'i' and capital 'D' when using in print, web or other text form
 - Use our logo in monochrome (aka 1 single color)
 
-### Don't
+### :x: Don't
 
 - Use the stylized form of iDocta with lowercase 'i' and capital 'D' in URI or mail adresses, f.e. info@idocta.be
 - Use the old style logo with different colored letters (red lowercase 'i')

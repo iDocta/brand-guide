@@ -1,3 +1,8 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/iDocta/brand-guide/blob/main/palette/README.md)
+[![nl](https://img.shields.io/badge/lang-nl-green.svg)](https://github.com/iDocta/brand-guide/blob/main/palette/README.nl.md)
+
+---
+
 <h1 align="center">
     <a href="https://www.idocta.be"><img src="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/source/light.svg" width="175px" alt="iDocta"></a>
 </h1>
