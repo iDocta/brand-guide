@@ -10,7 +10,7 @@
 
 ---
 
-[Terug naar bovenliggende pagina](https://github.com/iDocta/brand-guide/logo)
+[Terug naar bovenliggende pagina](../README.nl.md)
 
 ## Standard logos
 

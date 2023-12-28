@@ -11,7 +11,7 @@
 
 ---
 
-[Back to parent directory](https://github.com/iDocta/brand-guide)
+[Back to parent directory](../README.md)
 
 ## Logo types
 

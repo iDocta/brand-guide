@@ -11,7 +11,7 @@
 
 ---
 
-[Back to parent directory](https://github.com/iDocta/brand-guide/logo)
+[Back to parent directory](../README.md)
 
 ## Standard logos
 
