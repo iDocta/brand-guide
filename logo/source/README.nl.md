@@ -12,7 +12,7 @@
 
 [Terug naar bovenliggende pagina](../README.nl.md)
 
-## Bron logos
+## Bron logo's
 
 | Voorbeeld                                                                                            | Type   |
 | ---------------------------------------------------------------------------------------------------- | ------ |
