@@ -10,7 +10,7 @@
 
 ---
 
-[Terug naar bovenliggende pagina](https://github.com/iDocta/brand-guide/README.nl.md)
+[Terug naar bovenliggende pagina](../README.nl.md)
 
 ## Merkrichtlijnen
 

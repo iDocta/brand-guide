@@ -12,7 +12,7 @@
 
 ---
 
-[Back to parent directory](https://github.com/iDocta/brand-guide/README.md)
+[Back to parent directory](../README.md)
 
 ## Brand guidelines
 
