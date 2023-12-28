@@ -15,7 +15,7 @@
 
 ## Logo types
 
-| Preview                                                                                                              | Type                                                                      |
-| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/source/light.svg?raw=true' width='64' alt=''/>        | [source](https://github.com/iDocta/brand-guide/blob/main/logo/source)     |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/standard/light-2048.png?raw=true' width='64' alt=''/> | [standard](https://github.com/iDocta/brand-guide/blob/main/logo/standard) |
+| Preview                                                                                                              | Type                           |
+| -------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/source/light.svg?raw=true' width='64' alt=''/>        | [source](source/README.md)     |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/standard/light-2048.png?raw=true' width='64' alt=''/> | [standard](standard/README.md) |
