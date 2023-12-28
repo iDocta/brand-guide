@@ -17,6 +17,6 @@ This repository contains everything to portray iDocta's brand.
 
 ## Navigation
 
-- [Do's and Don't's](dos_and_donts)
-- [iDocta logos](logo)
-- [Color Palette](palette)
+- [Do's and Don't's](dos_and_donts/README.md)
+- [iDocta logos](logo/README.md)
+- [Color Palette](palette/README.md)

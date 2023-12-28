@@ -16,6 +16,6 @@ Deze repository bevat alles om het merk iDocta af te beelden.
 
 ## Onderdelen
 
-- [Do's and Don't's](dos_and_donts)
-- [iDocta logos](logo)
-- [Kleurenpalet](palette)
+- [Do's and Don't's](dos_and_donts/README.nl.md)
+- [iDocta logos](logo/README.nl.md)
+- [Kleurenpalet](palette/README.nl.md)
