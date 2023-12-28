@@ -25,4 +25,3 @@
 - Gebruik het logo in de oude stijl met verschillend gekleurde letters (rode kleine letter 'i')
 - Breng wijzigingen aan in de logo's
 - Maak exports van ons .svg-bronbestand, gebruik exports uit dit archief
-
