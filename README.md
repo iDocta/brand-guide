@@ -10,7 +10,7 @@
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/source/dark.svg">
             <img width="175px" alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/source/light.svg">
         </picture>
-    </a>
+    </a> 
 </h1>
  
 <h3 align="center">Brand guidelines of iDocta.</h3>
