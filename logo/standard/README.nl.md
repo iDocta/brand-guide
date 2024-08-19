@@ -5,9 +5,9 @@
 <h1 align="center">
     <a href="https://www.idocta.be">    
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/source/white.svg">
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/source/black.svg">
-            <img width="175px" alt="Shows a black logo in white color mode and a white one in black color mode." src="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/source/white.svg">
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/source/idocta-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/source/idocta-black.svg">
+            <img width="175px" alt="Shows a black logo in white color mode and a white one in black color mode." src="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/source/idocta-white.svg">
         </picture>
     </a> 
 </h1>
@@ -20,13 +20,13 @@
 
 ## Standaard logo's
 
-| Voorbeeld                                                                                                            | Grootte | Donker? | Bestand                                                                                        |
-| -------------------------------------------------------------------------------------------------------------------- | ------- | ------- | ---------------------------------------------------------------------------------------------- |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/standard/black-100.png?raw=true' width='64' alt=''/>  | 100px   | ✅       | [black-100.png](https://github.com/iDocta/brand-guide/blob/main/logo/standard/black-100.png)   |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/standard/black-512.png?raw=true' width='64' alt=''/>  | 512px   | ✅       | [black-512.png](https://github.com/iDocta/brand-guide/blob/main/logo/standard/black-512.png)   |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/standard/black-1024.png?raw=true' width='64' alt=''/> | 1024px  | ✅       | [black-1024.png](https://github.com/iDocta/brand-guide/blob/main/logo/standard/black-1024.png) |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/standard/black-2048.png?raw=true' width='64' alt=''/> | 2048px  | ✅       | [black-2048.png](https://github.com/iDocta/brand-guide/blob/main/logo/standard/black-2048.png) |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/standard/white-100.png?raw=true' width='64' alt=''/>  | 100px   | ❌       | [white-100.png](https://github.com/iDocta/brand-guide/blob/main/logo/standard/white-100.png)   |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/standard/white-512.png?raw=true' width='64' alt=''/>  | 512px   | ❌       | [white-512.png](https://github.com/iDocta/brand-guide/blob/main/logo/standard/white-512.png)   |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/standard/white-1024.png?raw=true' width='64' alt=''/> | 1024px  | ❌       | [white-1024.png](https://github.com/iDocta/brand-guide/blob/main/logo/standard/white-1024.png) |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/standard/white-2048.png?raw=true' width='64' alt=''/> | 2048px  | ❌       | [white-2048.png](https://github.com/iDocta/brand-guide/blob/main/logo/standard/white-2048.png) |
+| Voorbeeld                                                                                                                   | Grootte | Donker? | Bestand                                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------- | ------- | ------- | ------------------------------------------------------------------------------------------------------------ |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/standard/idocta-black-100.png?raw=true' width='64' alt=''/>  | 100px   | ✅       | [idocta-black-100.png](https://github.com/iDocta/brand-guide/blob/main/logo/standard/idocta-black-100.png)   |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/standard/idocta-black-512.png?raw=true' width='64' alt=''/>  | 512px   | ✅       | [idocta-black-512.png](https://github.com/iDocta/brand-guide/blob/main/logo/standard/idocta-black-512.png)   |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/standard/idocta-black-1024.png?raw=true' width='64' alt=''/> | 1024px  | ✅       | [idocta-black-1024.png](https://github.com/iDocta/brand-guide/blob/main/logo/standard/idocta-black-1024.png) |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/standard/idocta-black-2048.png?raw=true' width='64' alt=''/> | 2048px  | ✅       | [idocta-black-2048.png](https://github.com/iDocta/brand-guide/blob/main/logo/standard/idocta-black-2048.png) |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/standard/idocta-white-100.png?raw=true' width='64' alt=''/>  | 100px   | ❌       | [idocta-white-100.png](https://github.com/iDocta/brand-guide/blob/main/logo/standard/idocta-white-100.png)   |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/standard/idocta-white-512.png?raw=true' width='64' alt=''/>  | 512px   | ❌       | [idocta-white-512.png](https://github.com/iDocta/brand-guide/blob/main/logo/standard/idocta-white-512.png)   |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/standard/idocta-white-1024.png?raw=true' width='64' alt=''/> | 1024px  | ❌       | [idocta-white-1024.png](https://github.com/iDocta/brand-guide/blob/main/logo/standard/idocta-white-1024.png) |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/standard/idocta-white-2048.png?raw=true' width='64' alt=''/> | 2048px  | ❌       | [idocta-white-2048.png](https://github.com/iDocta/brand-guide/blob/main/logo/standard/idocta-white-2048.png) |
