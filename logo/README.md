@@ -6,9 +6,9 @@
 <h1 align="center">
     <a href="https://www.idocta.be">    
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/source/light.svg">
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/source/dark.svg">
-            <img width="175px" alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/source/light.svg">
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/source/white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/source/black.svg">
+            <img width="175px" alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/source/black.svg">
         </picture>
     </a> 
 </h1>
@@ -23,5 +23,5 @@
 
 | Preview                                                                                                              | Type                           |
 | -------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/source/light.svg?raw=true' width='64' alt=''/>        | [source](source/README.md)     |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/standard/light-2048.png?raw=true' width='64' alt=''/> | [standard](standard/README.md) |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/source/black.svg?raw=true' width='64' alt=''/>        | [source](source/README.md)     |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/standard/black-2048.png?raw=true' width='64' alt=''/> | [standard](standard/README.md) |
