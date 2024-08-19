@@ -23,5 +23,5 @@
 
 | Preview                                                                                              | Type       |
 | ---------------------------------------------------------------------------------------------------- | ---------- |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/source/white.svg' width='64' alt=''/> | Dark mode  |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/source/black.svg' width='64' alt=''/> | Light mode |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/source/white.svg' width='64' alt=''/> | Light mode |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/source/black.svg' width='64' alt=''/> | Dark mode  |

@@ -22,5 +22,5 @@
 
 | Voorbeeld                                                                                            | Type          |
 | ---------------------------------------------------------------------------------------------------- | ------------- |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/source/white.svg' width='64' alt=''/> | Donkere modus |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/source/black.svg' width='64' alt=''/> | Lichte modus  |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/source/white.svg' width='64' alt=''/> | Lichte modus  |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/source/black.svg' width='64' alt=''/> | Donkere modus |
