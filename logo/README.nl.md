@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/iDocta/brand-guide/blob/main/logo/idocta/README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/iDocta/brand-guide/blob/main/logo/README.md)
 
 ---
 
