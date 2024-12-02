@@ -5,9 +5,9 @@
 <h1 align="center">
     <a href="https://www.idocta.be">    
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/source/idocta-white.svg">
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/source/idocta-black.svg">
-            <img width="175px" alt="Shows a black logo in white color mode and a white one in black color mode." src="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/source/idocta-white.svg">
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/idocta/source/idocta-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/idocta/source/idocta-black.svg">
+            <img width="175px" alt="Shows a black logo in white color mode and a white one in black color mode." src="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/idocta/source/idocta-white.svg">
         </picture>
     </a> 
 </h1>
