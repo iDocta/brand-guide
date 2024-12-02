@@ -21,21 +21,21 @@
 
 ## Source logos
 
-| Preview                                                                                                                          | Description | Filetype | Usecase |
-| -------------------------------------------------------------------------------------------------------------------------------- | ----------- | -------- | ------- |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-aalst-landscape-dark.svg' width='128' alt=''/>     | CBC logo    | `.svg`   |         |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-aalst-landscape-light.svg' width='128' alt=''/>    | CBC logo    | `.svg`   |         |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-aalst-portrait-dark.svg' width='64' alt=''/>       | CBC logo    | `.svg`   |         |
+|                                                             Preview                                                              | Description | Filetype | Usecase |
+| :------------------------------------------------------------------------------------------------------------------------------: | ----------- | -------- | ------- |
+|   <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-aalst-landscape-dark.svg' width='128' alt=''/>   | CBC logo    | `.svg`   |         |
+|  <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-aalst-landscape-light.svg' width='128' alt=''/>   | CBC logo    | `.svg`   |         |
+|    <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-aalst-portrait-dark.svg' width='64' alt=''/>    | CBC logo    | `.svg`   |         |
 | <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-aalst-portrait-less-dark.svg' width='64' alt=''/>  | CBC logo    | `.svg`   |         |
 | <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-aalst-portrait-less-light.svg' width='64' alt=''/> | CBC logo    | `.svg`   |         |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-aalst-portrait-light.svg' width='64' alt=''/>      | CBC logo    | `.svg`   |         |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-arrow-dark.svg' width='64' alt=''/>                | CBC logo    | `.svg`   |         |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-arrow-light.svg' width='64' alt=''/>               | CBC logo    | `.svg`   |         |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-landscape-dark.svg' width='128' alt=''/>           | CBC logo    | `.svg`   |         |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-landscape-light.svg' width='128' alt=''/>          | CBC logo    | `.svg`   |         |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-portrait-dark.svg' width='64' alt=''/>             | CBC logo    | `.svg`   |         |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-portrait-less-dark.svg' width='64' alt=''/>        | CBC logo    | `.svg`   |         |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-portrait-less-light.svg' width='64' alt=''/>       | CBC logo    | `.svg`   |         |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-portrait-light.svg' width='64' alt=''/>            | CBC logo    | `.svg`   |         |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-portrait-minimal-dark.svg' width='64' alt=''/>     | CBC logo    | `.svg`   |         |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-portrait-minimal-light.svg' width='64' alt=''/>    | CBC logo    | `.svg`   |         |
+|   <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-aalst-portrait-light.svg' width='64' alt=''/>    | CBC logo    | `.svg`   |         |
+|        <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-arrow-dark.svg' width='64' alt=''/>         | CBC logo    | `.svg`   |         |
+|        <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-arrow-light.svg' width='64' alt=''/>        | CBC logo    | `.svg`   |         |
+|      <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-landscape-dark.svg' width='128' alt=''/>      | CBC logo    | `.svg`   |         |
+|     <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-landscape-light.svg' width='128' alt=''/>      | CBC logo    | `.svg`   |         |
+|       <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-portrait-dark.svg' width='64' alt=''/>       | CBC logo    | `.svg`   |         |
+|    <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-portrait-less-dark.svg' width='64' alt=''/>     | CBC logo    | `.svg`   |         |
+|    <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-portrait-less-light.svg' width='64' alt=''/>    | CBC logo    | `.svg`   |         |
+|      <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-portrait-light.svg' width='64' alt=''/>       | CBC logo    | `.svg`   |         |
+|   <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-portrait-minimal-dark.svg' width='64' alt=''/>   | CBC logo    | `.svg`   |         |
+|  <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-portrait-minimal-light.svg' width='64' alt=''/>   | CBC logo    | `.svg`   |         |
