@@ -21,8 +21,8 @@
 
 ## Brand logos
 
-| Preview                                                                                                                     | Brand      | Link                           |
-| --------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------ |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/idocta/source/idocta-black.svg?raw=true' width='64' alt=''/> | iDocta     | [More info](idocta/README.md)  |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-idocta.svg?raw=true' width='64' alt=''/>      | CBC iDocta | [More info](cbc/README.md)     |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/allmark/source/allmark-red.svg?raw=true' width='64' alt=''/> | Allmark    | [More info](allmark/README.md) |
+| Preview                                                                                                                                   | Brand      | Link                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------ |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/idocta/source/idocta-black.svg?raw=true' width='64' alt=''/>               | iDocta     | [More info](idocta/README.md)  |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-idocta.svg?raw=true' width='64' alt=''/>                    | CBC iDocta | [More info](cbc/README.md)     |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/allmark/source/allmark-red-barcode-black.svg?raw=true' width='64' alt=''/> | Allmark    | [More info](allmark/README.md) |
