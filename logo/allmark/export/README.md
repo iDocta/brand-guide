@@ -43,6 +43,3 @@
 | <img src='https://github.com/iDocta/brand-guide/blob/main/logo/allmark/export/allmark-red-no-barcode-512.png?raw=true' width='64' alt=''/>       | 512px        | [allmark-red-no-barcode-512.png](https://github.com/iDocta/brand-guide/blob/main/logo/allmark/export/allmark-red-no-barcode-512.png)             |
 | <img src='https://github.com/iDocta/brand-guide/blob/main/logo/allmark/export/allmark-red-no-barcode-1024.png?raw=true' width='64' alt=''/>      | 1024px       | [allmark-red-no-barcode-1024.png](https://github.com/iDocta/brand-guide/blob/main/logo/allmark/export/allmark-red-no-barcode-1024.png)           |
 | <img src='https://github.com/iDocta/brand-guide/blob/main/logo/allmark/export/allmark-red-no-barcode-2048.png?raw=true' width='64' alt=''/>      | 2048px       | [allmark-red-no-barcode-2048.png](https://github.com/iDocta/brand-guide/blob/main/logo/allmark/export/allmark-red-no-barcode-2048.png)           |
-
-
-
