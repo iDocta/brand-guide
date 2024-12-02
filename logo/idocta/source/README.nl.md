@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/iDocta/brand-guide/blob/main/logo/source/README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/iDocta/brand-guide/blob/main/logo/idocta/source/README.md)
 
 ---
 
@@ -20,7 +20,7 @@
 
 ## Bron logo's
 
-| Voorbeeld                                                                                                          | Type          |
-| ------------------------------------------------------------------------------------------------------------------ | ------------- |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/idocta/source/idocta-white.svg' width='64' alt=''/> | Lichte modus  |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/idocta/source/idocta-black.svg' width='64' alt=''/> | Donkere modus |
+| Voorbeeld                                                                                                          | Omschrijving                   | Bestandstype | Gebruik    |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------------ | ------------ | ---------- |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/idocta/source/idocta-white.svg' width='64' alt=''/> | iDocta logo (wit)              | `.svg`       | Dark mode  |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/idocta/source/idocta-black.svg' width='64' alt=''/> | iDocta logo (zwart, standaard) | `.svg`       | Light mode |
