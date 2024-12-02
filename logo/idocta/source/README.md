@@ -21,7 +21,7 @@
 
 ## Source logos
 
-| Preview                                                                                                            | Description                  | Filetype | Usecase    | CDN (`cdn.idocta.be`)                                                                      |
-| ------------------------------------------------------------------------------------------------------------------ | ---------------------------- | -------- | ---------- | ------------------------------------------------------------------------------------------ |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/idocta/source/idocta-white.svg' width='64' alt=''/> | iDocta logo (white)          | `.svg`   | Dark mode  | [cdn.idocta.be/img/logo/idocta/white.svg](https://cdn.idocta.be/img/logo/idocta/white.svg) |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/idocta/source/idocta-black.svg' width='64' alt=''/> | iDocta logo (black, default) | `.svg`   | Light mode | [cdn.idocta.be/img/logo/idocta/black.svg](https://cdn.idocta.be/img/logo/idocta/black.svg) |
+| Preview                                                                                                            | Description                  | Filetype | Usecase    | CDN (`cdn.idocta.be`)                                                         |
+| ------------------------------------------------------------------------------------------------------------------ | ---------------------------- | -------- | ---------- | ----------------------------------------------------------------------------- |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/idocta/source/idocta-white.svg' width='64' alt=''/> | iDocta logo (white)          | `.svg`   | Dark mode  | [/img/logo/idocta/white.svg](https://cdn.idocta.be/img/logo/idocta/white.svg) |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/idocta/source/idocta-black.svg' width='64' alt=''/> | iDocta logo (black, default) | `.svg`   | Light mode | [/img/logo/idocta/black.svg](https://cdn.idocta.be/img/logo/idocta/black.svg) |
