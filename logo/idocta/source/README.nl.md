@@ -20,7 +20,7 @@
 
 ## Bron logo's
 
-| Voorbeeld                                                                                                          | Omschrijving                   | Bestandstype | Gebruik    |
-| ------------------------------------------------------------------------------------------------------------------ | ------------------------------ | ------------ | ---------- |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/idocta/source/idocta-white.svg' width='64' alt=''/> | iDocta logo (wit)              | `.svg`       | Dark mode  |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/idocta/source/idocta-black.svg' width='64' alt=''/> | iDocta logo (zwart, standaard) | `.svg`       | Light mode |
+| Voorbeeld                                                                                                          | Omschrijving                   | Bestandstype | Gebruik    | CDN (`cdn.idocta.be`)                                                                      |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------------ | ------------ | ---------- | ------------------------------------------------------------------------------------------ |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/idocta/source/idocta-white.svg' width='64' alt=''/> | iDocta logo (wit)              | `.svg`       | Dark mode  | [cdn.idocta.be/img/logo/idocta/white.svg](https://cdn.idocta.be/img/logo/idocta/white.svg) |  |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/idocta/source/idocta-black.svg' width='64' alt=''/> | iDocta logo (zwart, standaard) | `.svg`       | Light mode | [cdn.idocta.be/img/logo/idocta/white.svg](https://cdn.idocta.be/img/logo/idocta/black.svg) |  |
