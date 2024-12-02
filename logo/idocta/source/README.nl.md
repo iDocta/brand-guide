@@ -20,7 +20,7 @@
 
 ## Bron logo's
 
-| Voorbeeld                                                                                                   | Type          |
-| ----------------------------------------------------------------------------------------------------------- | ------------- |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/source/idocta-white.svg' width='64' alt=''/> | Lichte modus  |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/source/idocta-black.svg' width='64' alt=''/> | Donkere modus |
+| Voorbeeld                                                                                                          | Type          |
+| ------------------------------------------------------------------------------------------------------------------ | ------------- |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/idocta/source/idocta-white.svg' width='64' alt=''/> | Lichte modus  |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/idocta/source/idocta-black.svg' width='64' alt=''/> | Donkere modus |

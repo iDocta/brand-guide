@@ -18,10 +18,9 @@
 
 [Terug naar bovenliggende pagina](../README.nl.md)
 
-## Merk logo's
+## Logo types
 
-| Preview                                                                                                                     | Brand      | Link                           |
-| --------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------ |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/idocta/source/idocta-black.svg?raw=true' width='64' alt=''/> | iDocta     | [Meer info](idocta/README.md)  |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-idocta.svg?raw=true' width='64' alt=''/>      | CBC iDocta | [Meer info](cbc/README.md)     |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/allmark/source/allmark-red.svg?raw=true' width='64' alt=''/> | Allmark    | [Meer info](allmark/README.md) |
+| Voorbeeld                                                                                                                        | Omschrijving   | Type                          |
+| -------------------------------------------------------------------------------------------------------------------------------- | -------------- | ----------------------------- |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/idocta/source/idocta-black.svg?raw=true' width='64' alt=''/>      | iDocta (`svg`) | [bron](source/README.nl.md)   |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/idocta/export/idocta-black-2048.png?raw=true' width='64' alt=''/> | iDocta (`png`) | [export](export/README.nl.md) |

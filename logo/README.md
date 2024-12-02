@@ -6,9 +6,9 @@
 <h1 align="center">
     <a href="https://www.idocta.be">    
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/source/idocta-white.svg">
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/source/idocta-black.svg">
-            <img width="175px" alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/source/idocta-black.svg">
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/idocta/source/idocta-white.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/idocta/source/idocta-black.svg">
+            <img width="175px" alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://raw.githubusercontent.com/iDocta/brand-guide/main/logo/idocta/source/idocta-black.svg">
         </picture>
     </a> 
 </h1>
@@ -19,9 +19,10 @@
 
 [Back to parent directory](../README.md)
 
-## Logo types
+## Brand logos
 
-| Preview                                                                                                                     | Description    | Type                           |
-| --------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------------------ |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/source/idocta-black.svg?raw=true' width='64' alt=''/>        | iDocta (`svg`) | [source](source/README.md)     |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/standard/idocta-black-2048.png?raw=true' width='64' alt=''/> | iDocta (`png`) | [standard](standard/README.md) |
+| Preview                                                                                                                     | Brand      | Link                           |
+| --------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------ |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/idocta/source/idocta-black.svg?raw=true' width='64' alt=''/> | iDocta     | [More info](idocta/README.md)  |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-idocta.svg?raw=true' width='64' alt=''/>      | CBC iDocta | [More info](cbc/README.md)     |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/allmark/source/allmark-red.svg?raw=true' width='64' alt=''/> | Allmark    | [More info](allmark/README.md) |
