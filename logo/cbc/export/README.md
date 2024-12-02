@@ -1,5 +1,5 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/iDocta/brand-guide/blob/main/logo/idocta/export/README.md)
-[![nl](https://img.shields.io/badge/lang-nl-green.svg)](https://github.com/iDocta/brand-guide/blob/main/logo/idocta/export/README.nl.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/iDocta/brand-guide/blob/main/logo/cbc/export/README.md)
+[![nl](https://img.shields.io/badge/lang-nl-green.svg)](https://github.com/iDocta/brand-guide/blob/main/logo/cbc/export/README.nl.md)
 
 ---
 
