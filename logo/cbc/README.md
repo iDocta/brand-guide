@@ -21,7 +21,7 @@
 
 ## Logo types
 
-| Preview                                                                                                                            | Description     | Type                       |
-| ---------------------------------------------------------------------------------------------------------------------------------- | --------------- | -------------------------- |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/allmark/source/allmark-black.svg?raw=true' width='64' alt=''/>      | Allmark (`svg`) | [source](source/README.md) |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/allmark/export/allmark-black-2048.png?raw=true' width='64' alt=''/> | Allmark (`png`) | [export](export/README.md) |
+| Preview                                                                                                                             | Description | Type                       |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ----------- | -------------------------- |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/source/cbc-portrait-light.svg?raw=true' width='64' alt=''/>      | CBC (`svg`) | [source](source/README.md) |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/cbc/export/cbc-portrait-light-2048.png?raw=true' width='64' alt=''/> | CBC (`png`) | [export](export/README.md) |
