@@ -20,7 +20,7 @@
 
 ## Logo types
 
-| Voorbeeld                                                                                                                                      | Omschrijving    | Type                          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ----------------------------- |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/allmark/source/allmark-red-barcode-black.svg?raw=true' width='64' alt=''/>      | Allmark (`svg`) | [bron](source/README.nl.md)   |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/allmark/export/allmark-red-barcode-black-2048.png?raw=true' width='64' alt=''/> | Allmark (`png`) | [export](export/README.nl.md) |
+| Voorbeeld                                                                                                                    | Omschrijving    | Type                          |
+| ---------------------------------------------------------------------------------------------------------------------------- | --------------- | ----------------------------- |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/allmark/source/allmark.svg?raw=true' width='64' alt=''/>      | Allmark (`svg`) | [bron](source/README.nl.md)   |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/allmark/export/allmark-2048.png?raw=true' width='64' alt=''/> | Allmark (`png`) | [export](export/README.nl.md) |

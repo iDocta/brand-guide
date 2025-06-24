@@ -21,7 +21,7 @@
 
 ## Logo types
 
-| Preview                                                                                                                                        | Description     | Type                       |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | -------------------------- |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/allmark/source/allmark-red-barcode-black.svg?raw=true' width='64' alt=''/>      | Allmark (`svg`) | [source](source/README.md) |
-| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/allmark/export/allmark-red-barcode-black-2048.png?raw=true' width='64' alt=''/> | Allmark (`png`) | [export](export/README.md) |
+| Preview                                                                                                                      | Description     | Type                       |
+| ---------------------------------------------------------------------------------------------------------------------------- | --------------- | -------------------------- |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/allmark/source/allmark.svg?raw=true' width='64' alt=''/>      | Allmark (`svg`) | [source](source/README.md) |
+| <img src='https://github.com/iDocta/brand-guide/blob/main/logo/allmark/export/allmark-2048.png?raw=true' width='64' alt=''/> | Allmark (`png`) | [export](export/README.md) |
